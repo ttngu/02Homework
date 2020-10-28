@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+.navbar {
+    border: 1px solid black;
+}
+
+/* About me container */
+.container {
+    overflow-wrap: normal;
+    width: 800px;
+    min-width: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color:rgb(212,185,140,50%);
+    border: 1px solid black;
+}
