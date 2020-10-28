@@ -10,14 +10,21 @@ body {
     overflow-wrap: normal;
     width: 800px;
     min-width: 200px;
-    margin-left: 10px;
-    margin-top: 10px;
+    margin: auto;
+    margin-top: 20px;
     padding: 20px;
     padding-left: 40px;
     padding-right: 40px;
     background-color:rgb(212,185,140,50%);
     border: 1px solid black;
-}
+ }
+
+.center {
+    margin: auto;
+    width: 60%;
+    background-color: rgb(212,185,140,50%);
+    border: 1px solid black;
+    padding: 10px; 
 
 .btn {
     background-color:black;
