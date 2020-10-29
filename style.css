@@ -17,7 +17,7 @@ body {
     padding-left: 40px;
     padding-right: 40px;
     background-color:rgb(199, 187, 165);
-    border: 1px solid lightgrey;  
+    border: 1px solid lightgrey;
  }
 
  .portfolio-container {
@@ -49,8 +49,12 @@ body {
     border: 1px solid white;
 }
 
-img.wrap {
+.wrap {
     float: left;
     margin-right: 1rem;
     margin-bottom: 1rem;
+    max-width: 100%;
+    height: auto;
 }
+
+
