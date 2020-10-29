@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(212,185,140,15%);
 }
 .navbar {
     border: 1px solid black;
@@ -17,6 +17,7 @@ body {
     padding-right: 40px;
     background-color:rgb(212,185,140,50%);
     border: 1px solid black;
+
  }
 
 .center {
@@ -25,10 +26,8 @@ body {
     background-color: rgb(212,185,140,50%);
     border: 1px solid black;
     padding: 10px; 
-
+}
 .btn {
     background-color:black;
     border: 1px solid white;
-    
-    
 }
