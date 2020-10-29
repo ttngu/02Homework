@@ -8,11 +8,12 @@ body {
 /* About me container */
 .container {
     overflow-wrap: normal;
-    width: 800px;
-    min-width: 200px;
+    /* width: 800px;
+    min-width: 200px; */
     margin: auto;
     margin-top: 20px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 40px;
     padding-right: 40px;
     background-color:rgb(212,185,140,50%);
