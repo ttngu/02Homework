@@ -18,8 +18,7 @@ body {
     padding-left: 40px;
     padding-right: 40px;
     background-color:rgb(199, 187, 165);
-    /* border: 1px solid black; */
-    border-radius: 2%;
+    border: 1px solid lightgrey;
 
  }
 
