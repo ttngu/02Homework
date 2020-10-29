@@ -18,10 +18,25 @@ body {
     padding-right: 40px;
     background-color:rgb(199, 187, 165);
     border: 1px solid lightgrey;  
-    
-
  }
 
+ .portfolio-container {
+    font-family: 'Noto Serif JP', serif;
+    overflow-wrap: normal;
+    margin-top: 1rem;
+    margin-bottom: 20rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    background-color:rgb(199, 187, 165);
+    border: 1px solid lightgrey;  
+ }
+ header {
+     word-wrap: break-word;
+ }
 /* .center {
     margin: auto;
     width: 60%;
@@ -36,4 +51,6 @@ body {
 
 img.wrap {
     float: left;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
 }
