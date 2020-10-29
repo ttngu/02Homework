@@ -8,6 +8,7 @@ body {
 
 /* About me container */
 .container {
+    font-family: 'Montserrat', sans-serif;
     overflow-wrap: normal;
     /* width: 800px;
     min-width: 200px; */
@@ -32,4 +33,12 @@ body {
 .btn {
     background-color:rgb(74, 80, 67);
     border: 1px solid white;
+}
+
+img.wrap {
+    float: left;
+}
+
+p {
+    padding-left: 40px;
 }
