@@ -12,3 +12,5 @@
     * Semantic HTML
     * Validated HTML, by using a validation service
     * Properly utilized Bootstrap components and grid system
+
+    ![Alt Text](https://github.com/ttngu/02Homework/blob/main/PorfolioScreenShot.png?raw=true)
