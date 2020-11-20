@@ -1,6 +1,7 @@
 body {
     background-image: url(https://wallpaperforu.com/wp-content/uploads/2020/07/city-wallpaper-20072516250517-scaled.jpg);
     background-color: rgb(212,185,140,15%);
+    color: black;
 }
 
 .navbar {
@@ -54,6 +55,7 @@ body {
 }
 
 .homeCookedImg {
+    color: black;
     float: left;
     margin-right: 1rem;
     margin-bottom: 1rem;
@@ -81,3 +83,16 @@ body {
     height: auto;
     width: 100%;
 }
+
+a {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #455040;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
