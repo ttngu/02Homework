@@ -75,7 +75,7 @@ body {
     
 }
 
-.dayPlannerImg {
+.dayPlannerImg, .quarantineGameImg {
     float: left;
     margin-right: 1rem;
     margin-bottom: 1rem;
@@ -96,6 +96,6 @@ a {
     text-decoration: underline;
   }
 
-#hereLink {
+#hereLink, #repoLink {
     font-weight: 700;
 }
